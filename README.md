@@ -5,8 +5,12 @@ Repository of automated backup copies of my FYP Report
 
 To Create your own copy of this work:
 
-Change the {your user} and {Path to repo/file} within both the Python and Bash scripts
+Create your own repository - either fork this or start a brand new one
 
-https://www.technipages.com/scheduled-task-windows - Follow this to create the scheduled task to run your manipulated Bash and Pyhton Scripts
+Initialise the repository and copy BACKUP.py and run-backup.bat
+
+Change the {your user} and {Path to repo/file} within both the Python and Batch scripts
+
+https://www.technipages.com/scheduled-task-windows - Follow this to create the scheduled task to run your manipulated Batch and Pyhton Scripts
 
 I am also happy to help :) 
